@@ -1,7 +1,7 @@
 
-# 🔍 WebStack Insight
+# 🔍 WebAnalzyer Insight
 
-**WebStack Insight** is a browser extension that uses AI to inspect and summarize the underlying technologies used in any website — including the tech stack, API calls, frameworks, and potential development strategies.
+**WebAnalyzer Insight** is a browser extension that uses AI to inspect and summarize the underlying technologies used in any website — including the tech stack, API calls, frameworks, and potential development strategies.
 
 Powered by [Cohere](https://cohere.com), it provides instant insights in a clean and intuitive UI. Whether you're a developer, tech researcher, or just curious — WebStack Insight helps you understand what’s behind the scenes.
 
@@ -9,7 +9,7 @@ Powered by [Cohere](https://cohere.com), it provides instant insights in a clean
 
 ## 📸 Preview
 
-![WebStack Insight Preview](./assets/preview.png) <!-- Replace with actual screenshot path -->
+![WebAnalzyer Insight Preview](./assets/preview.png) <!-- Replace with actual screenshot path -->
 
 ---
 
@@ -39,8 +39,8 @@ Powered by [Cohere](https://cohere.com), it provides instant insights in a clean
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/webstack-insight.git
-cd webstack-insight
+git clone https://github.com/VIBHORE-LAB/webanalyzer.git
+cd WebAnalyzer
 ```
 
 ### 2. Create a config.js file
